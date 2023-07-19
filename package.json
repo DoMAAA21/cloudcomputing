@@ -2,6 +2,7 @@
   "name": "Boldo",
   "version": "1.0.0",
   "description": "Free bootstrap 5 Responsive and Agency template",
+  "homepage": "https://domaaa21.github.io/cloudcomputing/public/index.html",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
