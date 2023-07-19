@@ -4881,8 +4881,6 @@ textarea.form-control-lg {
   list-style: none;
   background-color: var(--fg-dropdown-bg);
   background-clip: padding-box;
-  /* border: 1px solid var(--fg-dropdown-border-color);
-  border-radius: 5rem; */
   -webkit-box-shadow: var(--fg-dropdown-box-shadow);
   box-shadow: var(--fg-dropdown-box-shadow);
 }
